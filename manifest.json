@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "stage_calculator_app.py"
+  },
+  "python": {
+    "version": "3.10.19",
+    "package_manager": {
+      "name": "pip",
+      "version": "25.3",
+      "package_file": "requirements.txt"
+    }
+  },
+  "environment": {
+    "python": {
+      "requires": "~=3.10.0"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "c8d75b7391c15451cabaad9cbfcb8d70"
+    },
+    ".python-version": {
+      "checksum": "d9cdb6069726907d7bc5a6bf6b110f2d"
+    },
+    "README.md": {
+      "checksum": "44d5c8ebba10f4e5a4f87eb23214d2cb"
+    },
+    "deploy.py": {
+      "checksum": "2f27bd4896ec814f6bb74365007112dd"
+    },
+    "deploy.sh": {
+      "checksum": "15d08dd477d96fd1121490450012cfb7"
+    },
+    "deploy_windows.py": {
+      "checksum": "de8d9c6c1fcc37c110d5f4b4baaba724"
+    },
+    "stage_calculator_app.py": {
+      "checksum": "fdef220f0618c14ff722394880a6c131"
+    },
+    "title_lookup.json": {
+      "checksum": "f7ca79be8279d5bb6f60be0584c7f8ed"
+    }
+  }
+}
