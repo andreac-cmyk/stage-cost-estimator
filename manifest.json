@@ -37,11 +37,17 @@
     "deploy_windows.py": {
       "checksum": "de8d9c6c1fcc37c110d5f4b4baaba724"
     },
+    "pages/2_Stage_Planning.py": {
+      "checksum": "f45b78e432fc734bb8d9b6954f60f07e"
+    },
     "stage_calculator_app.py": {
       "checksum": "fdef220f0618c14ff722394880a6c131"
     },
     "title_lookup.json": {
       "checksum": "f7ca79be8279d5bb6f60be0584c7f8ed"
+    },
+    "upcoming_titles.json": {
+      "checksum": "ae30d60016204ea9b61f365a531c6d0f"
     }
   }
 }
